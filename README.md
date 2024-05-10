@@ -1,2 +1,2 @@
-# DevOps-lab
-this is a lab done by me
+# SentimentChecker
+THis repository contains only the python you have to merge it with amazon comprehend
